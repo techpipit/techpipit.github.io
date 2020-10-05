@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "tech pipit&#x27;s blog",
+    "description": "",
+    "home_page_url": "https://techpipit.github.io/techpipit.github.io",
+    "feed_url": "https://techpipit.github.io/techpipit.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "tech pipit"
+    },
+    "items": [
+        {
+            "id": "https://techpipit.github.io/techpipit.github.io/find-unique-values-libreoffice-calc.html",
+            "url": "https://techpipit.github.io/techpipit.github.io/find-unique-values-libreoffice-calc.html",
+            "title": "first article",
+            "summary": "...will be out soon",
+            "content_html": "<p>...will be out soon</p>",
+            "author": {
+                "name": "tech pipit"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-10-04T22:38:10+02:00",
+            "date_modified": "2020-10-05T19:52:16+02:00"
+        }
+    ]
+}

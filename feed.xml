@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>tech pipit&#x27;s blog</title>
+    <link href="https://techpipit.github.io/techpipit.github.io/feed.xml" rel="self" />
+    <link href="https://techpipit.github.io/techpipit.github.io" />
+    <updated>2020-10-05T19:52:16+02:00</updated>
+    <author>
+        <name>tech pipit</name>
+    </author>
+    <id>https://techpipit.github.io/techpipit.github.io</id>
+
+    <entry>
+        <title>first article</title>
+        <author>
+            <name>tech pipit</name>
+        </author>
+        <link href="https://techpipit.github.io/techpipit.github.io/find-unique-values-libreoffice-calc.html"/>
+        <id>https://techpipit.github.io/techpipit.github.io/find-unique-values-libreoffice-calc.html</id>
+
+        <updated>2020-10-05T19:52:16+02:00</updated>
+            <summary>
+                <![CDATA[
+                    ...will be out soon
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>...will be out soon</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
